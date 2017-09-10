@@ -1,1 +1,1 @@
-[VOT Notebook](https://data8.haas.berkeley.edu/user-redirect/interact?account=ds-modules&repo=LINGUIS-110&branch=master&path=VOT)
+[VOT Notebook](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=LINGUIS-110&branch=master&path=VOT)
