@@ -1,0 +1,199 @@
+"ID","Language","Gender","Height","vowel","F1","F2","F3"
+"1",1,"English","Female",168,"AA",948,1099,2939
+"2",1,"English","Female",168,"AE",931,1922,2897
+"3",1,"English","Female",168,"AH",733,1348,2523
+"4",1,"English","Female",168,"EH",693,2004,2873
+"5",1,"English","Female",168,"ER",608,1784,1885
+"6",1,"English","Female",168,"EY",566,2323,2991
+"7",1,"English","Female",168,"IH",515,2250,3012
+"8",1,"English","Female",168,"IY",353,2879,3385
+"9",1,"English","Female",168,"OW",566,1134,2848
+"10",1,"English","Female",168,"UH",531,1529,3051
+"11",1,"English","Female",168,"UW",427,1529,2691
+"12",10,"English","Male",180,"AA",683,1092,2442
+"13",10,"English","Male",180,"AE",718,1755,2495
+"14",10,"English","Male",180,"AH",602,1166,2580
+"15",10,"English","Male",180,"EH",588,1631,2483
+"16",10,"English","Male",180,"ER",556,1379,1827
+"17",10,"English","Male",180,"EY",443,2248,2549
+"18",10,"English","Male",180,"IH",440,1918,2588
+"19",10,"English","Male",180,"IY",312,2576,2781
+"20",10,"English","Male",180,"OW",548,1194,2334
+"21",10,"English","Male",180,"UH",500,1130,2454
+"22",10,"English","Male",180,"UW",365,1448,2160
+"23",11,"English","Female",160,"AA",641,993,2445
+"24",11,"English","Female",160,"AE",804,1718,2573
+"25",11,"English","Female",160,"AH",648,1371,2571
+"26",11,"English","Female",160,"EH",640,1695,2762
+"27",11,"English","Female",160,"ER",579,1154,1644
+"28",11,"English","Female",160,"EY",554,2274,2886
+"29",11,"English","Female",160,"IH",512,2073,2968
+"30",11,"English","Female",160,"IY",393,2786,3194
+"31",11,"English","Female",160,"OW",555,1182,2793
+"32",11,"English","Female",160,"UH",555,1123,3215
+"33",11,"English","Female",160,"UW",464,958,3228
+"34",12,"English","Female",152.4,"AA",671,1063,3043
+"35",12,"English","Female",152.4,"AE",974,1757,2726
+"36",12,"English","Female",152.4,"AH",695,1445,1586
+"37",12,"English","Female",152.4,"EH",815,1916,2797
+"38",12,"English","Female",152.4,"ER",528,1693,1975
+"39",12,"English","Female",152.4,"EY",515,2549,2963
+"40",12,"English","Female",152.4,"IH",538,2045,2108
+"41",12,"English","Female",152.4,"IY",276,2864,3303
+"42",12,"English","Female",152.4,"OW",570,1349,2809
+"43",12,"English","Female",152.4,"UH",548,1230,1543
+"44",12,"English","Female",152.4,"UW",343,1495,2572
+"45",13,"English","Prefer not to answer",161,"AA",717,1155,3048
+"46",13,"English","Prefer not to answer",161,"AE",753,1796,2724
+"47",13,"English","Prefer not to answer",161,"AH",742,1322,3135
+"48",13,"English","Prefer not to answer",161,"EH",723,2106,3040
+"49",13,"English","Prefer not to answer",161,"ER",557,1563,1962
+"50",13,"English","Prefer not to answer",161,"EY",485,2605,3203
+"51",13,"English","Prefer not to answer",161,"IH",442,2378,3174
+"52",13,"English","Prefer not to answer",161,"IY",368,2940,3456
+"53",13,"English","Prefer not to answer",161,"OW",582,1171,2929
+"54",13,"English","Prefer not to answer",161,"UH",523,1071,3015
+"55",13,"English","Prefer not to answer",161,"UW",417,1268,2676
+"56",14,"English","Male",172,"AA",724,996,3029
+"57",14,"English","Male",172,"AE",807,1796,2501
+"58",14,"English","Male",172,"AH",634,1354,2769
+"59",14,"English","Male",172,"EH",640,2082,3144
+"60",14,"English","Male",172,"ER",524,1564,2205
+"61",14,"English","Male",172,"EY",345,2673,3162
+"62",14,"English","Male",172,"IH",406,2346,3084
+"63",14,"English","Male",172,"IY",275,2773,3011
+"64",14,"English","Male",172,"OW",422,1306,2893
+"65",14,"English","Male",172,"UH",559,1069,2867
+"66",14,"English","Male",172,"UW",281,1013,2826
+"67",15,"English","Female",162.56,"AA",831,1073,2973
+"68",15,"English","Female",162.56,"AE",869,2034,2887
+"69",15,"English","Female",162.56,"AH",781,1290,2990
+"70",15,"English","Female",162.56,"EH",791,1605,2026
+"71",15,"English","Female",162.56,"ER",697,1772,2254
+"72",15,"English","Female",162.56,"EY",520,2533,2931
+"73",15,"English","Female",162.56,"IH",590,1637,2510
+"74",15,"English","Female",162.56,"IY",388,2655,2941
+"75",15,"English","Female",162.56,"OW",711,1325,2991
+"76",15,"English","Female",162.56,"UH",600,1181,3033
+"77",15,"English","Female",162.56,"UW",391,1896,2812
+"78",16,"Japanese","Male",168,"AA",739,1209,2454
+"79",16,"Japanese","Male",168,"AE",817,1716,2570
+"80",16,"Japanese","Male",168,"AH",845,1516,2499
+"81",16,"Japanese","Male",168,"EH",632,1937,2676
+"82",16,"Japanese","Male",168,"ER",770,1497,2397
+"83",16,"Japanese","Male",168,"EY",575,1926,2724
+"84",16,"Japanese","Male",168,"IH",449,2095,3051
+"85",16,"Japanese","Male",168,"IY",408,2156,3201
+"86",16,"Japanese","Male",168,"OW",683,1007,2374
+"87",16,"Japanese","Male",168,"UH",478,1476,2476
+"88",16,"Japanese","Male",168,"UW",484,1364,2459
+"89",17,"English","Female",170,"AA",933,1380,3260
+"90",17,"English","Female",170,"AE",1172,1890,3005
+"91",17,"English","Female",170,"AH",854,1714,1350
+"92",17,"English","Female",170,"EH",917,2000,3165
+"93",17,"English","Female",170,"ER",520,1762,2210
+"94",17,"English","Female",170,"EY",450,2560,3260
+"95",17,"English","Female",170,"IH",550,2200,3230
+"96",17,"English","Female",170,"IY",360,2878,3436
+"97",17,"English","Female",170,"OW",567,1427,3069
+"98",17,"English","Female",170,"UH",567,1427,2798
+"99",17,"English","Female",170,"UW",391,1427,2798
+"100",18,"English","Female",162.56,"AA",764,1006,2864
+"101",18,"English","Female",162.56,"AE",850,1775,2820
+"102",18,"English","Female",162.56,"AH",817,1315,2892
+"103",18,"English","Female",162.56,"EH",795,1888,2965
+"104",18,"English","Female",162.56,"ER",600,1535,1833
+"105",18,"English","Female",162.56,"EY",520,2297,2806
+"106",18,"English","Female",162.56,"IH",553,2192,2999
+"107",18,"English","Female",162.56,"IY",445,2685,3100
+"108",18,"English","Female",162.56,"OW",626,1333,2594
+"109",18,"English","Female",162.56,"UH",600,1286,2759
+"110",18,"English","Female",162.56,"UW",431,1517,2548
+"111",2,"Mandarin","Female",163,"AA",881,1347,2666
+"112",2,"Mandarin","Female",163,"AE",818,2098,2891
+"113",2,"Mandarin","Female",163,"AH",823,1212,2726
+"114",2,"Mandarin","Female",163,"EH",756,1803,2571
+"115",2,"Mandarin","Female",163,"ER",719,1157,2387
+"116",2,"Mandarin","Female",163,"EY",538,2401,3080
+"117",2,"Mandarin","Female",163,"IH",539,1777,2820
+"118",2,"Mandarin","Female",163,"IY",443,3080,3550
+"119",2,"Mandarin","Female",163,"OW",574,996,2765
+"120",2,"Mandarin","Female",163,"UH",726,1150,2746
+"121",2,"Mandarin","Female",163,"UW",479,1058,2785
+"122",3,"English","Male",173,"AA",682,1139,2379
+"123",3,"English","Male",173,"AE",652,1566,2512
+"124",3,"English","Male",173,"AH",569,1205,2538
+"125",3,"English","Male",173,"EH",604,1470,2666
+"126",3,"English","Male",173,"ER",503,1394,1436
+"127",3,"English","Male",173,"EY",457,1938,2696
+"128",3,"English","Male",173,"IH",439,1755,2726
+"129",3,"English","Male",173,"IY",285,2256,2904
+"130",3,"English","Male",173,"OW",531,1270,2443
+"131",3,"English","Male",173,"UH",512,1100,2425
+"132",3,"English","Male",173,"UW",338,1076,2435
+"133",4,"English","Female",154.94,"AA",825,1199,2621
+"134",4,"English","Female",154.94,"AE",836,1853,2737
+"135",4,"English","Female",154.94,"AH",836,1516,2677
+"136",4,"English","Female",154.94,"EH",700,1938,4497
+"137",4,"English","Female",154.94,"ER",598,1479,1960
+"138",4,"English","Female",154.94,"EY",502,2259,2875
+"139",4,"English","Female",154.94,"IH",500,2117,2939
+"140",4,"English","Female",154.94,"IY",341,2788,3100
+"141",4,"English","Female",154.94,"OW",679,1428,2759
+"142",4,"English","Female",154.94,"UH",565,1313,2741
+"143",4,"English","Female",154.94,"UW",439,1684,2714
+"144",5,"English","Female",156,"AA",995,1181,2925
+"145",5,"English","Female",156,"AE",1011,1999,2868
+"146",5,"English","Female",156,"AH",835,1536,3634
+"147",5,"English","Female",156,"EH",814,2228,3259
+"148",5,"English","Female",156,"ER",697,1645,1900
+"149",5,"English","Female",156,"EY",624,2696,3379
+"150",5,"English","Female",156,"IH",618,2440,3358
+"151",5,"English","Female",156,"IY",332,3343,4002
+"152",5,"English","Female",156,"OW",834,1642,3838
+"153",5,"English","Female",156,"UH",489,1185,3915
+"154",5,"English","Female",156,"UW",468,2066,3983
+"155",6,"English","Male",180,"AA",720,1224,2680
+"156",6,"English","Male",180,"AE",787,1735,2521
+"157",6,"English","Male",180,"AH",682,1429,2683
+"158",6,"English","Male",180,"EH",651,1806,2590
+"159",6,"English","Male",180,"ER",580,1666,1951
+"160",6,"English","Male",180,"EY",530,2062,2635
+"161",6,"English","Male",180,"IH",474,1947,2649
+"162",6,"English","Male",180,"IY",345,2314,3013
+"163",6,"English","Male",180,"OW",616,1295,2601
+"164",6,"English","Male",180,"UH",762,1003,2702
+"165",6,"English","Male",180,"UW",442,1502,2453
+"166",7,"Mandarin Chinese","Female",160,"AA",725,1142,3006
+"167",7,"Mandarin Chinese","Female",160,"AE",854,2093,2851
+"168",7,"Mandarin Chinese","Female",160,"AH",741,1286,2980
+"169",7,"Mandarin Chinese","Female",160,"EH",794,1895,2825
+"170",7,"Mandarin Chinese","Female",160,"ER",582,1518,1977
+"171",7,"Mandarin Chinese","Female",160,"EY",407,2602,3087
+"172",7,"Mandarin Chinese","Female",160,"IH",475,2272,2978
+"173",7,"Mandarin Chinese","Female",160,"IY",348,2416,3054
+"174",7,"Mandarin Chinese","Female",160,"OW",549,1238,2654
+"175",7,"Mandarin Chinese","Female",160,"UH",565,1159,2807
+"176",7,"Mandarin Chinese","Female",160,"UW",369,1576,2602
+"177",8,"Mandarin","Female",160,"AA",848,1243,2962
+"178",8,"Mandarin","Female",160,"AE",841,1842,3162
+"179",8,"Mandarin","Female",160,"AH",836,1498,2383
+"180",8,"Mandarin","Female",160,"EH",766,1812,3093
+"181",8,"Mandarin","Female",160,"ER",694,1392,2464
+"182",8,"Mandarin","Female",160,"EY",647,1977,3129
+"183",8,"Mandarin","Female",160,"IH",594,2046,3156
+"184",8,"Mandarin","Female",160,"IY",431,2837,3106
+"185",8,"Mandarin","Female",160,"OW",673,1297,2877
+"186",8,"Mandarin","Female",160,"UH",491,1110,3068
+"187",8,"Mandarin","Female",160,"UW",393,1123,2816
+"188",9,"English","Female",170,"AA",860,1319,2454
+"189",9,"English","Female",170,"AE",793,1779,2529
+"190",9,"English","Female",170,"AH",736,1625,2666
+"191",9,"English","Female",170,"EH",733,1725,2125
+"192",9,"English","Female",170,"ER",559,1608,1875
+"193",9,"English","Female",170,"EY",480,2281,2697
+"194",9,"English","Female",170,"IH",573,2051,2834
+"195",9,"English","Female",170,"IY",314,2576,3269
+"196",9,"English","Female",170,"OW",588,1608,2601
+"197",9,"English","Female",170,"UH",631,1547,2553
+"198",9,"English","Female",170,"UW",395,2014,2615
